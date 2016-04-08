@@ -1,0 +1,11 @@
+<launch>
+
+	<node
+		pkg = "car_driving"
+		name = "driver_node"
+		type = "car_driver.py"
+	/>
+
+
+
+</launch>
